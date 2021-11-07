@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<appSettings>
+		<add key="RabbitMQHost" value="localhost" />
+		<add key="RabbitMQPort" value="" />
+		<add key="RabbitMQUser" value="2" />
+		<add key="RabbitMQPassword" value="2" />
+		<add key="ConnectionStrings" value="Data Source=(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=172.16.14.60)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=GOSDB)));User Id=mineconom;Password=mineconom2020;" />
+		
+	</appSettings>
+</configuration>
